@@ -2,7 +2,7 @@
 
 Currently on dog days, about to start Sotfware Ingenniering at UNMSM on may 2022
 
-pflores.fisi22@hotmail.com if you have an epic proyect that I can collaborate to
+pflores.fisi22@gmail.com in case I owe you money
 
 <!---
 leflores-fisi/leflores-fisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
