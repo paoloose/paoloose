@@ -1,8 +1,8 @@
 ## About this dog
 
-Currently on dog days, about to start Sotfware Ingenniering at UNMSM on may 2022
+Soon... an EPIC readme.md
 
-pflores.fisi22@gmail.com in case I owe you money
+pflores.fisi22@gmail.com
 
 <!---
 leflores-fisi/leflores-fisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
