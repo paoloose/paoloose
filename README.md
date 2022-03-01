@@ -1,6 +1,6 @@
 ## About this dog
 
-Soon... an EPIC README.md
+Soon.... an EPIC README.md
 
 pflores.fisi22@gmail.com
 
