@@ -7,10 +7,12 @@
     <p>One moment please...</p>
 </div>
 
-<div align="right">
+<br>
+
+<div align="left">
     <img
-        width="120"
-        height="40"
+        width="240"
+        height="80"
         src="https://neko.up.railway.app/counter?id=paoloose"
     />
 </div>
