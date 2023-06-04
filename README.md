@@ -10,9 +10,15 @@
 <br>
 
 <div align="left">
-    <img
-        width="240"
-        height="80"
-        src="https://neko.up.railway.app/counter?id=paoloose"
-    />
+    <a
+        target="_blank"
+        href="https://github.com/paoloose/neko-counter"
+        title="Count your GitHub visitors with nekos"
+    >
+        <img
+            width="240"
+            height="80"
+            src="https://neko.up.railway.app/counter?id=paoloose"
+        />
+    </a>
 </div>
