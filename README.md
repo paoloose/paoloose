@@ -6,4 +6,4 @@
     <p>One moment please...</p>
 </div>
 
-![profile views counter](https://neko.up.railway.app/?id=paoloose)
+![profile views counter](https://neko.up.railway.app/counter?id=paoloose)
