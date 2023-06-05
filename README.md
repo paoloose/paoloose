@@ -18,7 +18,7 @@
         <img
             width="240"
             height="80"
-            src="https://neko.up.railway.app/counter?id=paoloose"
+            src="https://neko.up.railway.app/counter/paoloose"
         />
     </a>
 </div>
