@@ -6,19 +6,3 @@
     </p>
     <p>One moment please...</p>
 </div>
-
-<br>
-
-<div align="left">
-    <a
-        target="_blank"
-        href="https://github.com/paoloose/neko-counter"
-        title="Count your GitHub visitors with nekos"
-    >
-        <img
-            width="240"
-            height="80"
-            src="https://neko.up.railway.app/counter/paoloose"
-        />
-    </a>
-</div>
